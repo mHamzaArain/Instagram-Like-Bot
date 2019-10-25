@@ -2,8 +2,9 @@
 Best tool for marketing purpose which may boost follower or even likes on pictures. 
 
 ## This repository is only appliable on Linux
-1. In Terminal > sudo chmod +x insta_bot.py
-2. In Terminal > ./insta_bot.py
+1. Save file at Home
+2. In Terminal > sudo chmod +x insta_bot.py
+3. In Terminal > ./insta_bot.py
 
 ## pip to download
 1. selenium
