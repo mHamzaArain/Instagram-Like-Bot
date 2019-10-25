@@ -2,7 +2,7 @@
 Best tool for marketing purpose which may boost follower or even likes on pictures. 
 
 ## Installation: -pip to download
-pip3 install selenium
+In Terminal > pip3 install selenium
 
 ## This repository is only appliable on Linux
 1. Installation of greko driver is compulsory whch is written in Rust lang integerated with pyton script.
