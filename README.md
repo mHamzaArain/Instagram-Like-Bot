@@ -1,8 +1,8 @@
 # Instagram-Like-Bot
-Best tool for marketing purpose which may boost follower or even likes on pictures. 
+Best tool for marketing purpose which may boost follower or even increse likes on pictures. 
 
-## Installation: -pip to download
-In Terminal > pip3 install selenium
+## Installation: pip to download
+In Terminal > """pip3 install selenium"""
 
 ## This repository is only appliable on Linux
 1. Installation of greko driver is compulsory whch is written in Rust lang integerated with pyton script.
