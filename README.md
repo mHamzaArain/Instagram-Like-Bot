@@ -1,4 +1,4 @@
-# Instagram-Like-Bot
+# Instagram Like Bot
 Best tool for marketing purpose which may boost follower or even increse likes on pictures. 
 
 ## Demo Video
